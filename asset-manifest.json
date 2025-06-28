@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/buybusy_redux-main/static/css/main.1db8a573.css",
+    "main.js": "/buybusy_redux-main/static/js/main.54541e28.js",
+    "static/media/logo.png": "/buybusy_redux-main/static/media/logo.e2d6dfb6159f014f6527.png",
+    "index.html": "/buybusy_redux-main/index.html",
+    "main.1db8a573.css.map": "/buybusy_redux-main/static/css/main.1db8a573.css.map",
+    "main.54541e28.js.map": "/buybusy_redux-main/static/js/main.54541e28.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1db8a573.css",
+    "static/js/main.54541e28.js"
+  ]
+}
